@@ -1,0 +1,13 @@
+com\app\dmsftpdownload\dbapi\ISQLDetail_fileServerLama.class
+com\app\dmsftpdownload\dbapi\ISQLDetail_file.class
+com\app\dmsftpdownload\model\Detail_file.class
+com\app\dmsftpdownload\dbapi\Koneksi.class
+com\app\dmsftpdownload\FTPListRecursiveDemo.class
+com\app\dmsftpdownload\FTPUtil.class
+com\app\dmsftpdownload\dbapi\Koneksi$1.class
+com\app\dmsftpdownload\FTPDownloadDirectoryTest.class
+com\app\dmsftpdownload\dbapi\SQLDetail_file.class
+com\app\dmsftpdownload\FTPUtil2.class
+com\app\dmsftpdownload\dbapi\Koneksi$2.class
+com\app\dmsftpdownload\dbapi\SQLDetail_fileServerLama.class
+com\app\dmsftpdownload\model\Data_file.class
